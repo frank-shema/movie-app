@@ -7,7 +7,7 @@ const App = () => {
   const [movies, setMovies] = useState([]);
   const [searchInput, setSearchInput] = useState(''); // State to store search input
 
-// 
+
   const API_KEY = '3f731439'; 
   const API_URL = `http://www.omdbapi.com/?apikey=${API_KEY}`;
 
