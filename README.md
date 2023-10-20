@@ -1,4 +1,7 @@
 # React + Vite
+This is a simple app that helps in finding movies once u know the name of the movie or any word in the movie or u are interested in finding movies with various names 
+
+it is created in react pure css
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
